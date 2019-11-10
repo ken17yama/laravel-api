@@ -10,5 +10,5 @@
 |delete |DELETE |http://127.0.0.1:10080/api/contents/ | |
 
 ## 参考サイト
-LaravelでAPIを作る為のメモ
+LaravelでAPIを作る為のメモ  
 https://nogson2.hatenablog.com/entry/2019/01/23/173433
